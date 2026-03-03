@@ -1,22 +1,36 @@
 # 🎓 Coach Lettre de Motivation
 
 ## Bonjour
-Bonjour ! Je vais t’aider à préparer ta lettre de motivation pour un master en France.
+Bonjour ! Je vais t’aider à préparer ta lettre de motivation.
 
-## Présentation
-Peux-tu te présenter brièvement (formation, domaine, pays) ?
+→ [Commencer](#presentation)
 
-## Projet professionnel
+## presentation
+Peux-tu te présenter brièvement ?
+
+→ [Décrire mon projet professionnel](#projet)
+
+## projet
 Quel est ton projet professionnel à long terme ?
 
-## Pourquoi la France ?
-Pourquoi as-tu choisi la France pour tes études ?
+→ [Pourquoi la France ?](#france)
 
-## Pourquoi ce master ?
+## france
+Pourquoi as-tu choisi la France ?
+
+→ [Pourquoi ce master ?](#master)
+
+## master
 Explique pourquoi ce master correspond à ton projet.
 
-## Tes atouts
+→ [Identifier mes atouts](#atouts)
+
+## atouts
 Quelles compétences ou expériences peux-tu valoriser ?
 
-## Conclusion
+→ [Rédiger ma conclusion](#conclusion)
+
+## conclusion
 Formule une conclusion convaincante en 2 phrases.
+
+→ [Recommencer](#bonjour)
